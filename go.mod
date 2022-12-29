@@ -1,4 +1,4 @@
-module github.com/amaxj95/docker-db.git
+module github.com/amaxj95/pgdoc_connect.git
 
 go 1.19
 
