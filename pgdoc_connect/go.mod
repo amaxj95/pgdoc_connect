@@ -1,6 +1,6 @@
-module github.com/amaxj95/pgdoc_connect.git
+module github.com/amaxj95/pgdoc_connect/pgdoc_connect
 
-go 1.19
+	go 1.19
 
 require (
 	github.com/andybalholm/brotli v1.0.4 // indirect
