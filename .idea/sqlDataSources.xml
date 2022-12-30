@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="380a0486-d2c6-4d13-9c83-ce67d680b198" name="User Data Source Mapping">
+      <data-sources db="21035763-313f-40f1-bfc8-cc81ea83a6f9" />
+      <scope>
+        <node kind="database" negative="1" condition="git" />
+      </scope>
+    </mapping>
+  </component>
+</project>
